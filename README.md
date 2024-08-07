@@ -30,3 +30,4 @@ As seguintes ferramentas foram usadas na construção dos projetos:
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [Dapper](https://github.com/DapperLib/Dapper)
 - [Entity Framework](https://docs.microsoft.com/pt-br/ef/)
+- [Connection Strings](https://www.connectionstrings.com/)
