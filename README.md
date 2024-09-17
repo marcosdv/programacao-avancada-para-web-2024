@@ -10,10 +10,10 @@
 - [x] Aula 02 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET com SQL Server - 06/08/2024
 - [x] Aula 03 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET com Dapper e SQL Server - 13/08/2024
 - [x] Aula 04 - Agenda Telefonica API - CRUD da TbOperadora e TbPessoa - ADO.NET com Dapper e SQL Server - 20/08/2024
-- [x] Aula 05 - Agenda Telefonica API - CRUD da TbPessoa e Telefone - ADO.NET com Dapper e SQL Server - 20/08/2024
-- [x] Aula 06 - Agenda Telefonica API - Injeção de Dependências - 20/08/2024
-- [ ] Aula 07 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
-- [ ] Aula 08 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
+- [x] Aula 05 - Agenda Telefonica API - CRUD da TbPessoa e Telefone - ADO.NET com Dapper e SQL Server - 27/08/2024
+- [x] Aula 06 - Agenda Telefonica API - Injeção de Dependências - 03/09/2024
+- [x] Aula 07 - Agenda Telefonica API - Adicionando Memory Cache - 10/09/2024
+- [ ] Aula 08 - Agenda Telefonica API - Revisão Bimestral - 17/09/2024
 - [ ] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
 - [ ] Aula 10 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
 - [ ] Aula 11 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
