@@ -14,10 +14,12 @@
 - [x] Aula 06 - Agenda Telefonica API - Injeção de Dependências - 03/09/2024
 - [x] Aula 07 - Agenda Telefonica API - Adicionando Memory Cache - 10/09/2024
 - [x] Aula 08 - Agenda Telefonica API - Revisão Bimestral - 17/09/2024
-- [ ] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
+- [x] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
 - [ ] Aula 10 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
-- [ ] Aula 11 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
-- [ ] Aula 12 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
+- [ ] Aula 11 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
+- [ ] Aula 12 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
+- [ ] Aula 13 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
+- [ ] Aula 14 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
 
 ### Tecnologias
 
