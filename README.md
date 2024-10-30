@@ -17,7 +17,7 @@
 - [x] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 01/10/2024
 - [x] Aula 10 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 08/10/2024
 - [x] Aula 11 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 22/10/2024
-- [ ] Aula 12 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
+- [x] Aula 12 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server
 - [ ] Aula 13 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
 - [ ] Aula 14 - Meus Livros - Adicionando Teste Unitários, JWT e Criptografia
 
